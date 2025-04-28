@@ -11,13 +11,13 @@ The goal was to practise deploying Linux machines, working with text editors, us
 ---
 
 ### 🗝️ Key Concepts  
-- Deploying and accessing Linux machines over SSH.  
-- Using terminal text editors (`nano`) to edit files directly from the command line.  
-- Downloading and transferring files using `wget`, `scp`, and simple Python web servers.  
-- Managing system processes using `ps`, `top`, `kill`, and controlling services with `systemctl`.  
-- Setting up automated tasks using `cron` and `crontab`.  
-- Managing installed software and repositories with `apt` and `add-apt-repository`.  
-- Understanding system logs stored under `/var/log` for services like Apache2.
+- **Deploying and accessing Linux machines** – Use SSH to deploy and access remote Linux machines.  
+- **Using terminal text editors** – Edit files directly in the terminal using tools like `nano` and `vim`.  
+- **Downloading and transferring files** – Use tools like `wget` and `scp` to download and transfer files between machines.  
+- **Managing system processes** – Monitor and manage running processes using commands like `ps`, `top`, and `kill`.  
+- **Setting up automated tasks** – Schedule and automate tasks with `cron` and `crontab`.  
+- **Package management** – Install, update, and remove software with package managers like `apt` and `dpkg`.  
+- **System logging** – Monitor system activity by viewing logs stored in `/var/log` for services like Apache2, fail2ban, and UFW.
 
 ---
 
